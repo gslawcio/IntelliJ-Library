@@ -1,0 +1,96 @@
+2018-07-10 15:12:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `Categories` WHERE `id` = ?  [42102-193]
+2018-07-10 15:19:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:29:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:38:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:47:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:48:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:49:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:51:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-11 18:59:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:21:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:31:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:36:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:48:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:49:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 11:57:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 12:00:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 12:01:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 12:06:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+SELECT COUNT(*) FROM `CATEGORIES` WHERE `id` = ?  [42102-193]
+2018-07-12 12:10:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "AUTHORS" nie istnieje
+Table "AUTHORS" not found; SQL statement:
+DROP TABLE `Authors`  [42102-193]
+2018-07-12 12:10:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "BOOKS" nie istnieje
+Table "BOOKS" not found; SQL statement:
+DROP TABLE `BOOKS`  [42102-193]
+2018-07-12 12:10:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+DROP TABLE `CATEGORIES`  [42102-193]
+2018-07-12 14:10:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Błąd składniowy w wyrażeniu SQL "SELCT[*] * "; oczekiwano "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"
+Syntax error in SQL statement "SELCT[*] * "; expected "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"; SQL statement:
+selct * [42001-196]
+2018-07-12 14:10:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Błąd składniowy w wyrażeniu SQL "SELCT[*] * "; oczekiwano "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"
+Syntax error in SQL statement "SELCT[*] * "; expected "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"; SQL statement:
+selct * [42001-196]
+2018-07-12 14:11:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Błąd składniowy w wyrażeniu SQL "SELECT * FROM[*]"; oczekiwano "identifier"
+Syntax error in SQL statement "SELECT * FROM[*]"; expected "identifier"; SQL statement:
+SELECT * FROM [42001-196]
